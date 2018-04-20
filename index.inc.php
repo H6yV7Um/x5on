@@ -9,5 +9,5 @@ include template('x5on:index');
 
 echo("test");
 $a = 0;
-
+$c = 1;
 ?>
