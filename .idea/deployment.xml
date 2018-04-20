@@ -5,7 +5,8 @@
       <paths name="x5on">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/plugin.php?id=x5on:index" />
+            <mapping local="" />
           </mappings>
         </serverdata>
       </paths>
